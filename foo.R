@@ -2,7 +2,7 @@
 #' title: "Render"
 #' author: "Heather"
 #' date: "10/5/2021"
-#' output: html_document
+output: html_document
 ---
 
 #+ r setup, include=FALSE
